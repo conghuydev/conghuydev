@@ -29,6 +29,7 @@
 
 *  [Python](https://github.com/conghuyaug08-art/Python)
 *  [OOP - C#](https://github.com/conghuyaug08-art/LapTrinhHuongDoiTuong-OOP)
+*  [CP - C++](https://github.com/conghuydev/Competitive-Programming)
 
 ---
 
