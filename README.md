@@ -27,8 +27,8 @@
 
 ### 📂 Featured Projects
 
-* 🔹 [Python](https://github.com/conghuyaug08-art/Python)
-* 🔹 [OOP - C#](https://github.com/conghuyaug08-art/LapTrinhHuongDoiTuong-OOP)
+*  [Python](https://github.com/conghuyaug08-art/Python)
+*  [OOP - C#](https://github.com/conghuyaug08-art/LapTrinhHuongDoiTuong-OOP)
 
 ---
 
