@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me
+
 
 * 🎓 Software Engineering Student at **HUIT**
 * 💻 Languages: **C/C++ | Python | C#**
