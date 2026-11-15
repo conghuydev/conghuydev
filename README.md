@@ -1,49 +1,41 @@
-<h1 align="center">Hi 👋, I'm Hồ Công Huy</h1>
-<h3 align="center">🎓 Software Engineering Student at HUIT 🇻🇳</h3>
+
+<h1 align="center">Hồ Công Huy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;C%2FC%2B%2B+%7C+Python+%7C+C%23;Always+Learning+New+Things" alt="Typing SVG" />
+  Computer Science Student at HUIT, Vietnam
+  <br>
+  Software Development · AI & Machine Learning
 </p>
 
 ---
 
+### About Me
 
-### 👨‍💻 About Me
-* 🎓 Software Engineering Student at **HUIT**
-* 💻 Languages: **C/C++ | Python | C#**
-* 🧠 Currently learning **Data Structures & Algorithms**
-* 🚀 Improving my coding skills every day
-* 🎯 Goal: Become a Software Engineer
+I'm a Computer Science student at Ho Chi Minh City University of Industry and Trade (HUIT).
+
+I enjoy building practical applications, solving programming problems, and exploring how AI and Machine Learning work.
+
+- Currently learning **Data Structures & Algorithms** and **AI/ML fundamentals**
+- Studying **Linear Algebra**, **Multivariable Calculus**, and mathematics for Machine Learning
+- Building projects with **Python**, **C/C++**, and **C#**
+- Focused on improving my software development and problem-solving skills
+
+### Tech Stack
+
+**Languages:** `C` · `C++` · `Python` · `C#`
+
+**Tools:** `Git` · `GitHub` · `Visual Studio` · `VS Code` · `SQL Server`
+
+**Interests:** Software Engineering · Algorithms · Artificial Intelligence · Machine Learning
+
+### Projects
+
+- [Competitive Programming](https://github.com/conghuydev/Competitive-Programming) — Problem-solving and algorithms in C++
+- [Object-Oriented Programming](https://github.com/conghuyaug08-art/LapTrinhHuongDoiTuong-OOP) — OOP practice and projects in C#
+- [Python](https://github.com/conghuyaug08-art/Python) — Python exercises and programming projects
 
 ---
 
-### 🛠️ Languages & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs,java,html,css,javascript,mysql,git,github,vscode" alt="Languages and Tools" />
+  <sub>Learning, building, and improving — one step at a time.</sub>
 </p>
-
----
-
-### 📂 Featured Projects
-
-*  [Python](https://github.com/conghuyaug08-art/Python)
-*  [OOP - C#](https://github.com/conghuyaug08-art/LapTrinhHuongDoiTuong-OOP)
-*  [CP - C++](https://github.com/conghuydev/Competitive-Programming)
-
----
-
-### 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=conghuydev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conghuydev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
----
-
-<p align="center">
-  <i>“Consistency is the key to growth.”</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my pr
